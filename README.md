@@ -68,6 +68,10 @@ const outputHash = ripemd(inputHex)
 console.log(outputHash) // Logs the RIPEMD-160 hash of 'aabbcc'
 ```
 
+## Demo
+
+A demo is available [here](https://brain-wallet.github.io/ripemd/demo.html)
+
 ## API Reference
 
 ### `ripemd(hexString)`
