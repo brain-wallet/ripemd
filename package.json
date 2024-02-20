@@ -1,6 +1,6 @@
 {
   "name": "ripemd",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ripemd",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,5 @@
     "url": "https://github.com/brain-wallet/ripemd/issues"
   },
   "homepage": "https://github.com/brain-wallet/ripemd#readme",
-  "dependencies": {
-  }
+  "dependencies": {}
 }
