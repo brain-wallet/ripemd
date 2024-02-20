@@ -1,6 +1,6 @@
 {
   "name": "ripemd",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "ripemd",
   "main": "index.js",
   "scripts": {
