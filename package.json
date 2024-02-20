@@ -7,6 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "type": "module",
+  "bin": {
+    "ripemd": "bin/ripemd.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/brain-wallet/ripemd.git"
